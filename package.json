@@ -15,6 +15,14 @@
     "type": "git",
     "url": "https://github.com/tant/adk-python-snippet.git"
   },
+  "homepage": "https://github.com/tant/adk-python-snippet",
+  "keywords": [
+    "adk",
+    "agent",
+    "snippet",
+    "python",
+    "ai"
+  ],
   "contributes": {
     "snippets": [
       {
