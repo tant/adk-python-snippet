@@ -2,7 +2,7 @@
   "name": "google-adk-agent-snippet",
   "displayName": "Google ADK Agent snippet",
   "description": "Comprehensive Python boilerplate for ADK AI Agents: includes imports, LLM configuration, tool definitions (stateless/stateful), callbacks (guardrails), multi-agent setup (sub-agents & root agent), and state management.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "tan-tran-ttd",
   "engines": {
     "vscode": "^1.100.0"
