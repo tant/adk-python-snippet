@@ -2,6 +2,7 @@
   "ADKAgentSnippet": {
     "prefix": "adkagent",
     "body": [
+      "Please make sure you install ADK with 'pip install google-adk' first",
       "# 1. Imports",
       "# Import necessary components from ADK and other libraries",
       "from adk.agent import LlmAgent, BaseAgent # LlmAgent is common, BaseAgent is base class",
